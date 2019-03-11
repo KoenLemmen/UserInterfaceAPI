@@ -1,0 +1,13 @@
+name: UserInterfaceAPI
+main: org.spookit.api.userinterface.UserInterface
+author: "BlueObsidian"
+version: 1.8.2
+commands:
+  userinterface:
+    description: UserInterface 
+    aliases:
+    - useri
+    - ui
+    - uinterface
+    - userinterfaceapi
+    - uia
